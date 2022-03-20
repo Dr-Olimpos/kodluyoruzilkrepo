@@ -1,6 +1,9 @@
 # kodluyoruzilkrepo
 -----------------------------------------
 Bu repo [kodluyoruz](https://www.kodluyoruz.org) Eğitimi kapsamında açtığım ilk repo. içerisinde bir adet README dosyası, bir adet de index.html barındırıyor
+
+
+
 ![image](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
 ## Installation
 ------------------------------------
